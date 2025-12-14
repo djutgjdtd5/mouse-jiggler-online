@@ -1,7 +1,7 @@
 {
-  "name": "StayAwake Pro",
-  "short_name": "Mouse Jiggler",
-  "start_url": "./index.html",
+  "name": "Mouse Jiggler Online",
+  "short_name": "Jiggler",
+  "start_url": "https://orbitwebtools.github.io/mouse-jiggler-online/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2563eb",
