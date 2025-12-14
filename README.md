@@ -1,6 +1,6 @@
 # 🖱️ Online Mouse Jiggler (Free & No Download)
 
-> **Keep Microsoft Teams, Slack, Outlook, and Skype Active (Green) all day.** > 👉 [**CLICK HERE TO USE THE TOOL**](https://orbitwebtools.github.io/mouse-jiggler-online/)
+> **Keep Microsoft Teams, Slack, Outlook, and Skype Active (Green) all day.** > 👉 [**CLICK HERE TO USE THE TOOL**](https://orbitwebtools.github.io/mouse-jiggler-online-2026/)
 
 ![Online Mouse Jiggler](https://img.icons8.com/fluency/96/mouse-left-click.png)
 
@@ -14,7 +14,7 @@
 - **Safe:** Runs entirely in your browser (Client-Side).
 
 ## 🛠️ How to Use
-1. Open [Live Tool Here](https://orbitwebtools.github.io/mouse-jiggler-online/).
+1. Open [Live Tool Here](https://orbitwebtools.github.io/mouse-jiggler-online-2026/).
 2. Click **"ACTIVATE JIGGLER"**.
 3. Keep the tab open (you can minimize it).
 4. Enjoy your "Green" status!
